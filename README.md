@@ -201,6 +201,10 @@
       </ul>
     </div>
     <div class="block">
+      <h2>Email</h2>
+        <h3>Morrisatee@gmail.com</h3> 
+    </div>
+    <div class="block">
       <h2>CONTACT</h2>
       [<a href="https://www.linkedin.com/in/%E6%99%BA%E5%82%91-%E8%8C%83-a4423520a/">LinkedIn
       </a>
