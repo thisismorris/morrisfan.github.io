@@ -16,10 +16,10 @@
           <div class="time">
             Aug. 2021 - Now
           </div>
-          <h5>National Tsing Hua University, Taiwan
-          </h5>
-          <h3>Bachlor in Electrical Engineering
+          <h3>National Tsing Hua University, Taiwan
           </h3>
+          <h4>Bachlor in Electrical Engineering
+          </h4>
           <ul class="school">
             <li>Interactive Architecture Lab - Exploring immersive experience with Web VR/AR, creative coding and performance art. Finished several contextual thesis about how to put time concepts into art process. 
             </li>
@@ -29,10 +29,10 @@
           <div class="time">
               Jun. 2022 - Sep. 2022
           </div>
-          <h5>UCLA
-          </h5>
-          <h3>Exchange Student 
+          <h3>UCLA
           </h3>
+          <h4>Exchange Student 
+          </h4>
           <ul class="school">
              <li>Major in Electrical Engineering
              </li>
@@ -44,10 +44,10 @@
           <div class="time">
             Sep. 2020 - Jun. 2021
         </div>
-          <h5>National Taiwan University of Science and Technology
-          </h5>
-          <h3>Bachelor in Electrical Computer Engineering
+          <h3>National Taiwan University of Science and Technology
           </h3>
+          <h4>Bachelor in Electrical Computer Engineering
+          </h4>
           <ul class="school">
             <li>Focused on motion graphic, animation effect and UIUX.
             </li>
