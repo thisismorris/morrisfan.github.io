@@ -60,38 +60,19 @@
     <div class="block">
       <h2>SKILLS</h2>
       <ul>
-        <li>Graphic, UI/UX Design and Illustration
+        <h3>Analog Circuit Design</h3> 
+        <li>Cadence / Hspice / Laker / Composer
         </li>
-        <li>Prototyping, Storyboarding and Wireframing
+        <h3>Digital Circuit Design</h3>
+        <li>VHDL / Logic Synthesis
         </li>
-        <li>Creative Coding
-        </li> 
-        <li>Animation, effect animation and printing
+        <li>FPGA / Layout Placing and Routing
         </li>
-        <li>Theater, Concert, Event projection tech and design (4 years)           </li>
-    </ul>
-    </div>
-    <div class="block">
-      <h2>TOOLS</h2>
-      <ul>
-        <h3>Visual Design</h3> 
-        <li>Photoshop /  Illustrator
+        <h3>Cleanroom Fabrication</h3>
+        <li>MOS silicon wafer fabrication
         </li>
-        <li>Adobe XD / Sketch</li>
-        <h3>Development</h3>
-        <li>HTML / CSS / JavaScript
-        </li>
-        <li>Aframe(WebVR)
-        </li>
-        <li>Creative Coding Arts with p5.js
-        </li>
-        <h3>Animation</h3>
-        <li>Aftereffect  /  Cinema 4D
-        </li>
-        <li>Final Cut
-        </li>
-        <h3>Projection Design</h3> 
-        <li>QLab / Arena Resolume /  MadMapper
+        <h3>Software Programming</h3> 
+        <li>C / C++ / Matlab / Python / HTML
         </li>
       </ul>
     </div>
