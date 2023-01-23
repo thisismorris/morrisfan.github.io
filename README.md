@@ -26,8 +26,7 @@
             </li>
           </ul>
         </li>
-         <li>
-           
+        <li>      
           <div class="time">
               Jun. 2022 - Sep. 2022
           </div>
@@ -42,11 +41,10 @@
             </li>
             </ul>
          </li>
-         <li>
-            
-          <div class="time">
+         <li>            
+         <div class="time">
             Sep. 2020 - Jun. 2021
-        </div>
+         </div>
          <h3>National Taiwan University of Science and Technology
           </h3>
           <h4>Bachelor in Electrical Computer Engineering
