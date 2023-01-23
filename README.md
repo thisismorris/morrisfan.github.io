@@ -14,11 +14,12 @@
        <ul class="worklist">
          <li>
           <h2>EDUCATION</h2>
+           <h3>National Tsing Hua University, Taiwan
+          </h3>
           <div class="time">
             Aug. 2021 - NOW
           </div>
-          <h3>National Tsing Hua University, Taiwan
-          </h3>
+          
           <h4>Bachlor in Electrical Engineering
           </h4>
           <ul class="school">
@@ -27,11 +28,12 @@
           </ul>
         </li>
          <li>
+           <h3>UCLA
+          </h3>
           <div class="time">
               Jun. 2022 - Sep. 2022
           </div>
-          <h3>UCLA
-          </h3>
+          
           <h4>Exchange Student 
           </h4>
           <ul class="school">
@@ -42,11 +44,12 @@
             </ul>
          </li>
          <li>
+            <h3>National Taiwan University of Science and Technology
+          </h3>
           <div class="time">
             Sep. 2020 - Jun. 2021
         </div>
-          <h3>National Taiwan University of Science and Technology
-          </h3>
+         
           <h4>Bachelor in Electrical Computer Engineering
           </h4>
           <ul class="school">
@@ -102,14 +105,15 @@
     <div class="block">
       <h2>HONORS</h2>
       <ul>
-        <li>June 2022
-        </li>
         <h3>Overseas Exchange Scholarship</h3> 
+        <li>June 2022
+        </li>        
         <li>Summer Session at University of California, Los Angeles
         </li>
+        
+        <h3>Presidential Award</h3> 
         <li>January 2021
         </li>
-        <h3>Presidential Award</h3> 
         <li>National Tsing Hua University / top 2% in class
         </li>
       </ul>
