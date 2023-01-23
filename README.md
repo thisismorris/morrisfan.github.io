@@ -12,7 +12,7 @@
     
 <div class="right">
     <div class="block">
-         <li>
+          <li>
           <h2>EDUCATION</h2>
           <div class="time">
             Aug. 2021 - Now
@@ -25,7 +25,7 @@
             <li>Interactive Architecture Lab - Exploring immersive experience with Web VR/AR, creative coding and performance art. Finished several contextual thesis about how to put time concepts into art process. 
             </li>
           </ul>
-         </li>
+        
          <li>
           <div class="time">
               Jun. 2022 - Sep. 2022
