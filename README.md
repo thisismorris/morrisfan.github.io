@@ -3,7 +3,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
     <title>hello, it's me Morris，GitHub</title>
   </head>
   <body>
