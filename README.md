@@ -1,7 +1,7 @@
 <div class="resume">
   <div class="left">
      <div class="block">
-      <h1>SUN YU</h1>
+      <h1>Morris Fan</h1>
       <h4>Animator / Interaction Designer<br>Born and raise in Taiwan in 1995.</h4>
     </div>
      <div class="block">
