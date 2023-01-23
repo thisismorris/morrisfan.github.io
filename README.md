@@ -147,7 +147,6 @@
     </div>
   </div>
   <div class="right">
-    <img src="https://scontent-lhr8-1.xx.fbcdn.net/v/t1.0-9/118653070_3626730570685130_4180137735422369266_n.jpg?_nc_cat=102&_nc_sid=09cbfe&_nc_ohc=dlgms5W-36gAX_-0wSM&_nc_ht=scontent-lhr8-1.xx&oh=64e84c1ada2081b7256efcf726a48167&oe=5F8B2271" alt="photo" style="width:228px;height:228px">
     <div class="block">
       <h2>SKILLS</h2>
       <ul>
