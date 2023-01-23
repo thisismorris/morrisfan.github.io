@@ -10,12 +10,12 @@
 </h4>
     </div>
     
-<div class="right">
-    <div class="block">
-          <li>
+ <div class="block">
+       <ul class="worklist">
+         <li>
           <h2>EDUCATION</h2>
           <div class="time">
-            Aug. 2021 - Now
+            Aug. 2021 - NOW
           </div>
           <h3>National Tsing Hua University, Taiwan
           </h3>
