@@ -110,7 +110,6 @@ designed at National Chip Implementation Center (CIC), Taiwan.
         </li>        
         <li>Summer Session at University of California, Los Angeles / Full scholarship
         </li>
-        
         <h3>Presidential Award</h3> 
         <li>January 2021
         </li>
