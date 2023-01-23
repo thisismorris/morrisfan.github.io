@@ -9,7 +9,8 @@
 <p>Currently I am working on my Graduate Project “IOT Sensor Interface Circuit Chip Design” ,I am going to develop my expertise in IC design and manufacture the chip I designed at National Chip Implementation Center (CIC), Taiwan.</p>
 </h4>
     </div>
-    <div class="right">
+    
+<div class="right">
     <div class="block">
          <li>
           <h2>EDUCATION</h2>
