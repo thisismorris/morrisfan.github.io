@@ -14,11 +14,11 @@
          <li>
           <h2>EDUCATION</h2>
           <div class="time">
-            May. 2019 - Aug. 2020
+            Aug. 2021 - Now
           </div>
-          <h5>University College London, The Bartlett
+          <h5>National Tsing Hua University, Taiwan
           </h5>
-          <h3>MArch, Design for Performance and Interaction
+          <h3>Bachlor in Electrical Engineering
           </h3>
           <ul class="school">
             <li>Interactive Architecture Lab - Exploring immersive experience with Web VR/AR, creative coding and performance art. Finished several contextual thesis about how to put time concepts into art process. 
@@ -27,27 +27,14 @@
          </li>
          <li>
           <div class="time">
-            May. 2013 - Aug. 2018
-        </div>
-          <h5>Shih Chien University   
-          </h5>
-          <h3>Bachelor in Communications Design 3D animation
-          </h3>
-          <ul class="school">
-            <li>Focused on motion graphic, animation effect and UIUX.
-            </li>
-          </ul>
-         </li>
-         <li>
-          <div class="time">
-              Jan. 2017 - Jul. 2017
+              Jun. 2022 - Sep. 2022
           </div>
-          <h5>Shanghai Theater Academy  
+          <h5>UCLA
           </h5>
           <h3>Exchange Student 
           </h3>
           <ul class="school">
-             <li>Major in stage lighting design
+             <li>Major in Electrical Engineering
              </li>
              <li>As a theater director in their new media workshop production 
             </li>
@@ -55,14 +42,14 @@
          </li>
          <li>
           <div class="time">
-            Sep. 2016 - Nov. 2016
-          </div>
-          <h5>Communication University of China  
+            Sep. 2020 - Jun. 2021
+        </div>
+          <h5>National Taiwan University of Science and Technology
           </h5>
-          <h3>Exchange Student in Beijing 
+          <h3>Bachelor in Electrical Computer Engineering
           </h3>
           <ul class="school">
-             <li>Major in animation department
+            <li>Focused on motion graphic, animation effect and UIUX.
             </li>
           </ul>
          </li>
