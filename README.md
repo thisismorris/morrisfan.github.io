@@ -202,14 +202,14 @@
     </div>
     <div class="block">
       <h2>CONTACT</h2>
-     <a href="https://www.linkedin.com/in/%E6%99%BA%E5%82%91-%E8%8C%83-a4423520a/">LinkedIn
-     </a>
-     <a href="https://instagram.com/morrisatee?igshid=YmMyMTA2M2Y=">Instagram
-     </a>
-     <a href="https://www.facebook.com/tasla.fan/">Facebook
-     </a>
-     <a href="email">morrisatee@gmail.com
-     </a>
+      <a href="https://www.linkedin.com/in/%E6%99%BA%E5%82%91-%E8%8C%83-a4423520a/">LinkedIn
+      </a>
+      <a href="https://instagram.com/morrisatee?igshid=YmMyMTA2M2Y=">Instagram
+      </a>
+      <a href="https://www.facebook.com/tasla.fan/">Facebook
+      </a>
+      <a href="email">morrisatee@gmail.com
+      </a>
     </div>
   </div>
 </div>
