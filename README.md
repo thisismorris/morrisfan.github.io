@@ -14,7 +14,6 @@
        <ul class="worklist">
          <li>
           <h2>EDUCATION</h2>
-           
           <div class="time">
             Aug. 2021 - NOW
           </div>
