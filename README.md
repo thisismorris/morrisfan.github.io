@@ -65,7 +65,11 @@
         <li>Cadence / Hspice / Laker / Composer
         </li>
         <ul class="block">
-            <li>Focused on motion graphic, animation effect and UIUX.
+            <li>Analog Integrated Circuits (EE 240A) (A)
+            </li>
+            <li>Microelectronics (A)
+            </li>
+            <li>Control System (A)
             </li>
           </ul>
         <h3>Digital Circuit Design</h3>
@@ -74,21 +78,23 @@
         <li>FPGA / Layout Placing and Routing
         </li>
         <ul class="block">
-            <li>Focused on motion graphic, animation effect and UIUX.
+            <li>Introduction to Digital Design and Integrated Circuits (EECS251A) (A)
+            </li>
+          <li>Introduction to Digital Design and Integrated Circuits Lab (EECS 251LA) (A)
             </li>
           </ul>
         <h3>Cleanroom Fabrication</h3>
         <li>MOS silicon wafer fabrication
         </li>
         <ul class="block">
-            <li>Focused on motion graphic, animation effect and UIUX.
+            <li>Introduction to Solid-State Electronics Device (A-)
             </li>
           </ul>
         <h3>Software Programming</h3> 
         <li>C / C++ / Matlab / Python / HTML
         </li>
         <ul class="block">
-            <li>Focused on motion graphic, animation effect and UIUX.
+            <li>Computer Programing (A+)
             </li>
           </ul>
       </ul>
