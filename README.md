@@ -201,12 +201,14 @@
       </ul>
     </div>
     <div class="block">
-      <a class="contact" href="https://www.linkedin.com/in/yu-sun-875470195/"target="_blank">LinkIn</a>
-      <a class="contact" href="https://www.instagram.com/sourrain_art/"target="_blank">Instagram</a>
-      <a class="contact" href="https://github.com/sourrain"target="_blank">Github</a>
-     <li class="email">sourrainnn@gmail.com
+      <h2>CONTACT</h2>
+     <li class="LinkedIn">https://www.linkedin.com/in/%E6%99%BA%E5%82%91-%E8%8C%83-a4423520a/
      </li>
-     <li class="email">sourrainnn@hotmail.com
+     <li class="Instagram">https://instagram.com/morrisatee?igshid=YmMyMTA2M2Y=
+     </li>
+     <li class="Facebook">https://www.facebook.com/tasla.fan/
+     </li>
+     <li class="email">morrisatee@gmail.com
      </li>
     </div>
   </div>
