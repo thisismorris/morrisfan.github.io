@@ -208,8 +208,7 @@
       </a>
       ] [<a href="https://www.facebook.com/tasla.fan/">Facebook
       </a>
-      ] [<a href="email">morrisatee@gmail.com
-      </a>]
+      ]
     </div>
   </div>
 </div>
