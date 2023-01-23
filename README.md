@@ -202,11 +202,11 @@
     </div>
     <div class="block">
       <h2>CONTACT</h2>
-     <li class="LinkedIn">https://www.linkedin.com/in/%E6%99%BA%E5%82%91-%E8%8C%83-a4423520a/
+     <a href="https://www.linkedin.com/in/%E6%99%BA%E5%82%91-%E8%8C%83-a4423520a/">LinkedIn
+     </a>
+     <li class="https://instagram.com/morrisatee?igshid=YmMyMTA2M2Y=">Instagram
      </li>
-     <li class="Instagram">https://instagram.com/morrisatee?igshid=YmMyMTA2M2Y=
-     </li>
-     <li class="Facebook">https://www.facebook.com/tasla.fan/
+     <li class="https://www.facebook.com/tasla.fan/">Facebook
      </li>
      <li class="email">morrisatee@gmail.com
      </li>
