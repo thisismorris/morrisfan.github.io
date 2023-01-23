@@ -63,7 +63,7 @@
         <h3>Analog Circuit Design</h3> 
         <li>Cadence / Hspice / Laker / Composer
         </li>
-        <ul class="school">
+        <ul class="block">
             <li>Focused on motion graphic, animation effect and UIUX.
             </li>
           </ul>
