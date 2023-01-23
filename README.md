@@ -22,7 +22,10 @@
           <h4>Bachlor in Electrical Engineering
           </h4>
           <ul class="school">
-            <li>Interactive Architecture Lab - Exploring immersive experience with Web VR/AR, creative coding and performance art. Finished several contextual thesis about how to put time concepts into art process. 
+            <li>Neuromorphic and Biomedical Engineering Laboratory - Conduct my 
+independent study project under Prof. Kea-Tiong (Samuel) Tang. The topic I chose for my project is “IOT Sensor Interface Circuit Chip 
+Design”, I am going to develop my expertise in IC design and manufacture the chip I 
+designed at National Chip Implementation Center (CIC), Taiwan.
             </li>
           </ul>
         </li>
@@ -37,7 +40,7 @@
           <ul class="school">
              <li>Major in Electrical Engineering
              </li>
-             <li>As a theater director in their new media workshop production 
+             <li>Full scholarship offered by National Tsing Hua University, Electrical Engineering Dept.
             </li>
             </ul>
          </li>
@@ -50,7 +53,7 @@
           <h4>Bachelor in Electrical Computer Engineering
           </h4>
           <ul class="school">
-            <li>Focused on motion graphic, animation effect and UIUX.
+            <li>Admitted by NTUST at 15th of 9290 students.
             </li>
           </ul>
          </li>
@@ -105,13 +108,13 @@
         <h3>Overseas Exchange Scholarship</h3> 
         <li>June 2022
         </li>        
-        <li>Summer Session at University of California, Los Angeles
+        <li>Summer Session at University of California, Los Angeles / Full scholarship
         </li>
         
         <h3>Presidential Award</h3> 
         <li>January 2021
         </li>
-        <li>National Tsing Hua University / top 2% in class
+        <li>National Taiwan University of Science and Technology / top 1% in class
         </li>
       </ul>
     </div>
