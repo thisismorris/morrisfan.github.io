@@ -73,12 +73,24 @@
         </li>
         <li>FPGA / Layout Placing and Routing
         </li>
+        <ul class="block">
+            <li>Focused on motion graphic, animation effect and UIUX.
+            </li>
+          </ul>
         <h3>Cleanroom Fabrication</h3>
         <li>MOS silicon wafer fabrication
         </li>
+        <ul class="block">
+            <li>Focused on motion graphic, animation effect and UIUX.
+            </li>
+          </ul>
         <h3>Software Programming</h3> 
         <li>C / C++ / Matlab / Python / HTML
         </li>
+        <ul class="block">
+            <li>Focused on motion graphic, animation effect and UIUX.
+            </li>
+          </ul>
       </ul>
     </div>
     <div class="block">
