@@ -8,7 +8,7 @@
 
 <p>Currently I am working on my Graduate Project “IOT Sensor Interface Circuit Chip Design” ,I am going to develop my expertise in IC design and manufacture the chip I designed at National Chip Implementation Center (CIC), Taiwan.</p>
 </h4>
-    </div>
+</div>
     
  <div class="block">
        <ul class="worklist">
@@ -25,7 +25,7 @@
             <li>Interactive Architecture Lab - Exploring immersive experience with Web VR/AR, creative coding and performance art. Finished several contextual thesis about how to put time concepts into art process. 
             </li>
           </ul>
-        
+        </li>
          <li>
           <div class="time">
               Jun. 2022 - Sep. 2022
