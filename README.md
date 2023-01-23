@@ -2,11 +2,11 @@
   <div class="left">
      <div class="block">
       <h1>Morris (Chih-Chieh) Fan</h1>
-      <h4>Hi! I'm Morris, Welcome to my personal website.
+      <h4><p>Hi! I'm Morris, Welcome to my personal website.</p>
 
-I am a Junior student in Electrical Engineering at National Tsing Hua University, where I work on my project with Prof. Kea-Tiong (Samuel) Tang. My research interest lies in Integrated circuit design, especially analog circuit design.
+<p>I am a Junior student in Electrical Engineering at National Tsing Hua University, where I work on my project with Prof. Kea-Tiong (Samuel) Tang. My research interest lies in Integrated circuit design, especially analog circuit design.</p>
 
-Currently I am working on my Graduate Project “IOT Sensor Interface Circuit Chip Design” ,I am going to develop my expertise in IC design and manufacture the chip I designed at National Chip Implementation Center (CIC), Taiwan.
+<p>Currently I am working on my Graduate Project “IOT Sensor Interface Circuit Chip Design” ,I am going to develop my expertise in IC design and manufacture the chip I designed at National Chip Implementation Center (CIC), Taiwan.</p>
 </h4>
     </div>
      <div class="block">
