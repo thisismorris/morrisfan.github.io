@@ -94,18 +94,18 @@
       </ul>
     </div>
     <div class="block">
-      <h2>ACHIEVEMENTS</h2>
+      <h2>HONORS</h2>
       <ul>
-        <h3>Ars Electronica, 2020</h3> 
-        <li>Exhibited the work-in-process graduate artwork in The Kepler's Garden Project(VR project built in MozillaHubs)
+        <li>June 2022
         </li>
-        <h3>Art Resident in Studio Kura, 2019</h3>
-        <li>Created and showcased a children ebook in Itoshima, Kyushu, Japan.
+        <h3>Overseas Exchange Scholarship</h3> 
+        <li>Summer Session at University of California, Los Angeles
         </li>
-        <h3>ATONA Case Competition, 2016</h3>
-        <li>Nominated in IBM group
+        <li>January 2021
         </li>
-        <h3>Business Next Digital Media Camp</h3> 
+        <h3>Presidential Award</h3> 
+        <li>National Tsing Hua University / top 2% in class
+        </li>
       </ul>
     </div>
     <div class="block">
