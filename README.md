@@ -2,7 +2,12 @@
   <div class="left">
      <div class="block">
       <h1>Morris (Chih-Chieh) Fan</h1>
-      <h4>Animator / Interaction Designer<br>Born and raise in Taiwan in 1995.</h4>
+      <h4>Hi! I'm Morris welcome to my personal website.
+
+I am a Junior student in Electrical Engineering at National Tsing Hua University, where I work on my project with Prof. Kea-Tiong (Samuel) Tang. My research interest lies in Integrated circuit design, especially analog circuit design.
+
+Currently I am working on my Graduate Project “IOT Sensor Interface Circuit Chip Design” ,I am going to develop my expertise in IC design and manufacture the chip I designed at National Chip Implementation Center (CIC), Taiwan.
+</h4>
     </div>
      <div class="block">
        <ul class="worklist">
