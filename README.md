@@ -25,12 +25,12 @@
             <li>Neuromorphic and Biomedical Engineering Laboratory - Conduct my 
 independent study project under Prof. Kea-Tiong (Samuel) Tang. The topic I chose for my project is “IOT Sensor Interface Circuit Chip 
 Design”, I am going to develop my expertise in IC design and manufacture the chip I 
-designed at National Chip Implementation Center (CIC), Taiwan.<br>
+designed at National Chip Implementation Center (CIC), Taiwan.
             </li>
           </ul>
         </li>
         <li>      
-          <div class="time">
+          <br><div class="time">
               Jun. 2022 - Sep. 2022
           </div>
           <h3>UCLA
