@@ -15,7 +15,7 @@
           <h2>EDUCATION</h2>
          <li>
           <div class="time">
-            Aug. 2021 - NOW
+            <h4>Aug. 2021 - NOW</h4>
           </div>
           <h3>National Tsing Hua University, Taiwan
           </h3>
@@ -29,7 +29,7 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
         </li>
         <br><li>      
           <div class="time">
-              Jun. 2022 - Sep. 2022
+              <h4>Jun. 2022 - Sep. 2022</h4>
           </div>
           <h3>UCLA
           </h3>
@@ -44,7 +44,7 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
          </li>
          <br><li>            
          <div class="time">
-            Sep. 2020 - Jun. 2021
+            <h4>Sep. 2020 - Jun. 2021</h4>
          </div>
          <h3>National Taiwan University of Science and Technology
           </h3>
