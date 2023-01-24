@@ -12,8 +12,8 @@
     
  <div class="block">
        <ul class="worklist">
-         <li>
           <h2>EDUCATION</h2>
+         <li>
           <div class="time">
             Aug. 2021 - NOW
           </div>
