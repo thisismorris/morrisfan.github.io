@@ -6,7 +6,7 @@
 
 <p>I am a Junior student in Electrical Engineering at National Tsing Hua University, where I work on my project with Prof. Kea-Tiong (Samuel) Tang. My research interest lies in Integrated circuit design, especially analog circuit design.</p>
 
-<p>Currently, I am working on my Graduate Project “IoT Sensor Interface Circuit Chip Design”, I am going to develop my expertise in IC design and manufacture the chip I designed at National Chip Implementation Center (CIC), Taiwan.</p>
+<p>Currently, I am working on my Graduate Project “IoT Sensor Interface Circuit Chip Design”, developing my expertise in IC design and manufacturing the chip I designed at National Chip Implementation Center (CIC), Taiwan.</p>
 </h4>
 </div>
     
