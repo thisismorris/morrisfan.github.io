@@ -153,4 +153,3 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
       </a>]
     </div>
   </div>
-</div>
