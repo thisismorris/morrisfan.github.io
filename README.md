@@ -29,8 +29,8 @@ designed at National Chip Implementation Center (CIC), Taiwan.
             </li>
           </ul>
         </li>
-        <li>      
-          <br><div class="time">
+        <br><li>      
+          <div class="time">
               Jun. 2022 - Sep. 2022
           </div>
           <h3>UCLA
@@ -44,8 +44,8 @@ designed at National Chip Implementation Center (CIC), Taiwan.
             </li>
             </ul>
          </li>
-         <li>            
-         <br><div class="time">
+         <br><li>            
+         <div class="time">
             Sep. 2020 - Jun. 2021
          </div>
          <h3>National Taiwan University of Science and Technology
