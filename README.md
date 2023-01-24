@@ -1,4 +1,4 @@
-<div class="resume">
+<div class="resumew">
   <div class="left">
      <div class="block">
       <h1>Morris (Chih-Chieh) Fan</h1>
