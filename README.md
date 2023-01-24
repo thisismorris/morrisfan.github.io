@@ -23,9 +23,7 @@
           </h4>
           <ul class="school">
             <li>Neuromorphic and Biomedical Engineering Laboratory - Conduct my 
-independent study project under Prof. Kea-Tiong (Samuel) Tang. The topic I chose for my project is “IOT Sensor Interface Circuit Chip 
-Design”, I am going to develop my expertise in IC design and manufacture the chip I 
-designed at National Chip Implementation Center (CIC), Taiwan.
+independent study project under Prof. Kea-Tiong (Samuel) Tang.
             </li>
           </ul>
         </li>
