@@ -45,7 +45,7 @@ designed at National Chip Implementation Center (CIC), Taiwan.
             </ul>
          </li>
          <li>            
-         <div class="time">
+         <br><div class="time">
             Sep. 2020 - Jun. 2021
          </div>
          <h3>National Taiwan University of Science and Technology
