@@ -118,6 +118,26 @@ designed at National Chip Implementation Center (CIC), Taiwan.
       </ul>
     </div>
     <div class="block">
+      <h2>ENGLISH PROFICIENCY</h2>
+      <ul>
+        <h3>TOEFL</h3> 
+        <li>Nov. 2022
+        </li>        
+        <li>92/120
+        </li>
+        <h3>TOEIC</h3> 
+        <li>Mar. 2022
+        </li>
+        <li>900/990 / Golden Certificate
+        </li>
+        <h3>TOEIC</h3> 
+        <li>Dec. 2019
+        </li>
+        <li>880/990 / Golden Certificate
+        </li>
+      </ul>
+    </div>
+    <div class="block">
       <h2>Email</h2>
         <h3>Morrisatee@gmail.com</h3> 
     </div>
