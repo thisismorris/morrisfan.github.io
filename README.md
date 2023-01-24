@@ -78,10 +78,8 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
             </li>
           </ul>
         <h3>Digital Circuit Design</h3>
-        <li>VHDL / Logic Synthesis
-        </li>
-        <li>FPGA / Layout Placing and Routing
-        </li>
+        <li>VHDL / Logic Synthesis / FPGA / Layout Placing and Routing
+        </li>     
         <ul class="block">
             <li>Logic Design (EECS 101002) (A)
             </li>
