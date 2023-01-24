@@ -19,13 +19,13 @@
           </div>
           <h3>National Tsing Hua University, Taiwan
           </h3>
-          <h4>Bachlor in Electrical Engineering
+          <h4>Bachelor in Electrical Engineering
           </h4>
           <ul class="school">
             <li>Neuromorphic and Biomedical Engineering Laboratory - Conduct my 
 independent study project under Prof. Kea-Tiong (Samuel) Tang. The topic I chose for my project is “IOT Sensor Interface Circuit Chip 
 Design”, I am going to develop my expertise in IC design and manufacture the chip I 
-designed at National Chip Implementation Center (CIC), Taiwan.
+designed at National Chip Implementation Center (CIC), Taiwan.<br>
             </li>
           </ul>
         </li>
