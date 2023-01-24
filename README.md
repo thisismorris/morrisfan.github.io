@@ -66,13 +66,15 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
         <li>Cadence / Hspice / Laker / Composer
         </li>
         <ul class="block">
-            <li>Analog Integrated Circuits (EE 240A) (A)
+            <li>Analog Integrated Circuits Analysis and Design I (EE 3225) (A)
             </li>
             <li>Introduction to Integrated Circuit Design (EE 3230) (A)
             </li>
-            <li>Microelectronics (A)
+            <li>Control System (EE 351000) (A)
             </li>
-            <li>Control System (A)
+            <li>Microelectronics Labs. (EE 224501) (A+)
+            </li>
+            <li>Microelectronics (EE 2255) (A)
             </li>
           </ul>
         <h3>Digital Circuit Design</h3>
@@ -81,23 +83,23 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
         <li>FPGA / Layout Placing and Routing
         </li>
         <ul class="block">
-            <li>Introduction to Digital Design and Integrated Circuits (EECS251A) (A)
+            <li>Logic Design (EECS 101002) (A)
             </li>
-          <li>Introduction to Digital Design and Integrated Circuits Lab (EECS 251LA) (A)
+            <li>Logic Design Laboratory (EECS 207001) (A)
             </li>
           </ul>
         <h3>Cleanroom Fabrication</h3>
         <li>MOS silicon wafer fabrication
         </li>
         <ul class="block">
-            <li>Introduction to Solid-State Electronics Device (A-)
+            <li>Introduction to Solid-State Electronic Devices (EE 3350) (A-)
             </li>
           </ul>
         <h3>Software Programming</h3> 
         <li>C / C++ / Matlab / Python / HTML
         </li>
         <ul class="block">
-            <li>Computer Programing (A+)
+            <li>Introduction to Programming (EE 231002) (A+)
             </li>
           </ul>
       </ul>
