@@ -68,6 +68,8 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
         <ul class="block">
             <li>Analog Integrated Circuits (EE 240A) (A)
             </li>
+            <li>Introduction to Integrated Circuit Design (EE 3230) (A)
+            </li>
             <li>Microelectronics (A)
             </li>
             <li>Control System (A)
