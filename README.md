@@ -128,10 +128,14 @@ independent study project under Prof. Kea-Tiong (Samuel) Tang.
         </li>
         <li>900/990 / Golden Certificate
         </li>
-        <h3>TOEIC</h3> 
         <li>Dec. 2019
         </li>
         <li>880/990 / Golden Certificate
+        </li>
+        <h3>GEPT</h3> 
+        <li>Oct. 2019
+        </li>
+        <li>High-Intermediate (B2)
         </li>
       </ul>
     </div>
