@@ -6,21 +6,7 @@
     	<meta http-equiv="X-UA-Compatible" content="ie=edge">	
        	<link rel="stylesheet" href="css/all.css">
     	<link rel="stylesheet" href="js/all.js">
-	本文瀏覽次數: <script type="text/javascript" language="Javascript" src="/article_counter.php"></script>
-	<?php
-	// get the current view
-	$counter = file_get_contents("article_counter.dat");
- 
-	if (!isset($_COOKIE['article_read'])) {
-	    setcookie("article_read", 1, time());
-	    $counter++;
-	    $fp = fopen("article_counter.dat, "w");
-	    fwrite($fp, $counter);
-	    fclose($fp);
-	}
- 
-	echo "document.write('" . $counter . "');";
-	?>
+	document.querySelector(".profile-header__view-num").textContent
 	<style>
 	 	body {
 		        font-size: 18px;
